@@ -15,3 +15,8 @@
 ---
 
 ![HarvardX](https://img.shields.io/badge/HarvardX-%23A51C30?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%230066B8?style=for-the-badge&logo=edx&logoColor=white)
+![SENA](https://img.shields.io/badge/SENA-%2300B140?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+
+
