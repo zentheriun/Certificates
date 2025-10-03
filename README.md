@@ -1,5 +1,3 @@
-## 🎓 About Me  
-
 <div align="center">
 
 <img src="https://github.com/zentheriun/Storage/blob/main/Library/Graduation%20Cap.png" alt="Graduation Cap" width="250" align="left" />
