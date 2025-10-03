@@ -14,7 +14,4 @@
 
 ---
 
-![Learner](https://img.shields.io/badge/Lifelong-Learner-blue?style=for-the-badge&logo=bookstack)
-![Problem Solver](https://img.shields.io/badge/Problem-Solver-brightgreen?style=for-the-badge&logo=codeforces)
-
-![Typing](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=3BB143&lines=Learning+never+ends...;Always+growing+step+by+step.)
+![HarvardX](https://img.shields.io/badge/HarvardX-%23A51C30?style=for-the-badge&logo=graduation-cap&logoColor=white)
